@@ -1,2 +1,3 @@
 new edit 
 second line entered.
+third line added.
