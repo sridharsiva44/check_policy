@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 checking for  policy work or not?
 lets testing.
+=======
+checking for  policy work or not?
+>>>>>>> Stashed changes
+
+push done
